@@ -159,7 +159,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-![Screenshot (18)](https://github.com/Nandzack25/UAS-PI/assets/144807966/1ca5006b-85c6-4c4d-8c9b-f312baedd7bd)
+![Screenshot (20)](https://github.com/Nandzack25/UAS-PI/assets/144807966/fd84ff3a-0d78-44b7-8032-b88eba306fbd)
+
 ![Screenshot (19)](https://github.com/Nandzack25/UAS-PI/assets/144807966/775301fe-4ec3-4be1-bfba-bc8089a54e8e)
 
 
