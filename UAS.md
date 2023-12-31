@@ -97,6 +97,10 @@ Referensi []
 
 
 23.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+![Screenshot (31)](https://github.com/Nandzack25/UAS-PI/assets/144807966/439146ce-6cc4-4129-8e8a-ac7b1443dd50)
+![Screenshot (30)](https://github.com/Nandzack25/UAS-PI/assets/144807966/b5c881cb-f99e-43e3-a34c-0fcffd995159)
+![Screenshot (29)](https://github.com/Nandzack25/UAS-PI/assets/144807966/588cc1be-3e7b-4673-b029-f062206b6c90)
+
 
 
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
