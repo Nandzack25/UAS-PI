@@ -176,6 +176,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
  
 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Screenshot (32)](https://github.com/Nandzack25/UAS-PI/assets/144807966/662f1a9f-2a6b-45c4-9791-61f8c05833da)
+![Screenshot (33)](https://github.com/Nandzack25/UAS-PI/assets/144807966/a8d340a8-0bbf-4f64-b9e1-32fab2c280ea)
 
 
 48.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
