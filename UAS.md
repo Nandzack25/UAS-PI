@@ -65,7 +65,6 @@ Referensi: 1
 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 ![Screenshot (28)](https://github.com/Nandzack25/UAS-PI/assets/144807966/2b633ae1-dcfb-4059-898e-c12c6e2a2cf2)
 ![Screenshot (27)](https://github.com/Nandzack25/UAS-PI/assets/144807966/9e8491f1-d429-41e6-98bf-fedda5dcc31c)
-![Screenshot (26)](https://github.com/Nandzack25/UAS-PI/assets/144807966/ba175117-a0ef-4d26-be9d-e46865e765fb)
 
 
 
