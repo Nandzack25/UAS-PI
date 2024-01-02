@@ -20,6 +20,7 @@ https://youtu.be/D5TJ698tep8
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+https://youtu.be/ILha7idKLkE
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
