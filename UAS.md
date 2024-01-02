@@ -58,7 +58,7 @@ Referensi 1
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-https://youtu.be/QBsFUanjewI
+
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
@@ -109,7 +109,7 @@ https://youtu.be/m4FWdyOnbEg
 ![Screenshot (30)](https://github.com/Nandzack25/UAS-PI/assets/144807966/b5c881cb-f99e-43e3-a34c-0fcffd995159)
 ![Screenshot (29)](https://github.com/Nandzack25/UAS-PI/assets/144807966/588cc1be-3e7b-4673-b029-f062206b6c90)
 
-
+https://youtu.be/QBsFUanjewI
 
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
