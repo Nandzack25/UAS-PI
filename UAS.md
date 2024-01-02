@@ -3,39 +3,42 @@
 Hello Informatics !
 
 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
+https://youtu.be/7D2uqnAPySY
 
 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
+https://youtu.be/xr7aLgDZY4g
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/G9mehOa6nHs
 
 4.Mencoba Console Sistem Operasi
 
    Windows CMD [v] ⭐⭐⭐⭐
 
-   Referensi 1
+   
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 
 6.Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi 1
+(https://youtu.be/23vmJq6tHTo)
 
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi 1
+https://youtu.be/-P3Ter3B6ts
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+https://youtu.be/k77QvbcirsQ
 
 9.Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+https://youtu.be/JNwiue-UOCs
 
 10.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-   
+
+   https://youtu.be/4ULC-oV7XSs
 
 11.Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -52,6 +55,7 @@ Referensi 1
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+https://youtu.be/QBsFUanjewI
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
@@ -95,6 +99,7 @@ Referensi []
 
 22.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+https://youtu.be/m4FWdyOnbEg
 
 23.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 ![Screenshot (31)](https://github.com/Nandzack25/UAS-PI/assets/144807966/439146ce-6cc4-4129-8e8a-ac7b1443dd50)
@@ -106,16 +111,20 @@ Referensi []
 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+
+https://youtu.be/uXx9YruPiBc
 
 25.Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://youtu.be/9H_wU8Ya8M0
 
 26.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://youtu.be/7pzapKcl24U
 
 27.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+https://youtu.be/7pzapKcl24U
 
 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -139,8 +148,12 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 35.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+
+https://youtu.be/tPYN_bHA6gE
  
 36.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+https://youtu.be/Ky-_sZgfrvE
  
 37.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -153,6 +166,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 40.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+https://youtu.be/fPyn-J5dTkc
 
 41.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -169,35 +183,44 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 ![Screenshot (19)](https://github.com/Nandzack25/UAS-PI/assets/144807966/775301fe-4ec3-4be1-bfba-bc8089a54e8e)
 
+https://youtu.be/L7Et2qmeYTU
 
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
+https://youtu.be/Qq7Rtugugbs
  
 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 ![Screenshot (32)](https://github.com/Nandzack25/UAS-PI/assets/144807966/662f1a9f-2a6b-45c4-9791-61f8c05833da)
 ![Screenshot (33)](https://github.com/Nandzack25/UAS-PI/assets/144807966/a8d340a8-0bbf-4f64-b9e1-32fab2c280ea)
 
+https://youtu.be/T6H_Lg4krmI
 
 48.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-  
+
+  https://youtu.be/UKMP3r7kbA4
 
 49.Eksplorasi Top Github Project yang Diminati ⭐⭐
 
+https://youtu.be/mcgwCzhFL9I
 
 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
   ![Screenshot (25)](https://github.com/Nandzack25/UAS-PI/assets/144807966/2a0146ad-46c9-4fff-ad83-1bab761e301b)
 ![Screenshot (26)](https://github.com/Nandzack25/UAS-PI/assets/144807966/33df81b0-2d2a-4a71-8cd3-eecac1b4083d)
 
-
+https://youtu.be/kMW15kgvPUQ
 
 51.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+https://youtu.be/bWIQVjoLNNk
 
 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
   
 
 
 53.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+https://youtu.be/DkNEoWSIqDI
   
