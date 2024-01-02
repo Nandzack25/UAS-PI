@@ -14,11 +14,9 @@ https://youtu.be/xr7aLgDZY4g
 
 https://youtu.be/G9mehOa6nHs
 
-4.Mencoba Console Sistem Operasi
+4.Mencoba Console Sistem Operasi Windows CMD [v] ⭐⭐⭐⭐
 
-   Windows CMD [v] ⭐⭐⭐⭐
-
-   
+https://youtu.be/D5TJ698tep8
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
