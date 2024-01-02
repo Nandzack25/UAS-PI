@@ -3,12 +3,15 @@
 Hello Informatics !
 
 1.Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+
 https://youtu.be/7D2uqnAPySY
 
 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+
 https://youtu.be/xr7aLgDZY4g
 
 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
 https://youtu.be/G9mehOa6nHs
 
 4.Mencoba Console Sistem Operasi
@@ -186,6 +189,12 @@ https://youtu.be/fPyn-J5dTkc
 https://youtu.be/L7Et2qmeYTU
 
 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+
+![WhatsApp Image 2024-01-02 at 22 16 35_44fd6c3a](https://github.com/Nandzack25/UAS-PI/assets/144807966/3282b9ad-e174-4872-bbc0-882bbbd4f7ce)
+
+![WhatsApp Image 2024-01-02 at 22 16 11_3ec153ee](https://github.com/Nandzack25/UAS-PI/assets/144807966/7eb35a29-3d93-452c-85c8-50e4b69d1b73)
+
+![WhatsApp Image 2024-01-02 at 22 16 11_f1ba197c](https://github.com/Nandzack25/UAS-PI/assets/144807966/f9fa4832-71c2-4bf4-8007-1ba70a69314d)
 
 
 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
