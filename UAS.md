@@ -57,16 +57,11 @@ Referensi 1
 
 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-
-
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
+https://youtu.be/-vlv2ZYeo5A
 
 15.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: 1
+https://youtu.be/5gm9aJqgVks
 
 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 ![Screenshot (28)](https://github.com/Nandzack25/UAS-PI/assets/144807966/2b633ae1-dcfb-4059-898e-c12c6e2a2cf2)
@@ -88,7 +83,7 @@ Interaktivitas halaman web : JavaScript
 
 18.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+https://youtu.be/fe1MyIaysy8
 
 19.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
