@@ -126,6 +126,7 @@ https://youtu.be/7pzapKcl24U
 
 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+https://youtu.be/_CRzJH8Yajc
 
 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
